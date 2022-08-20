@@ -1,0 +1,5 @@
+{
+	"ip":"Lifestealsrp.aternos.me",
+	"port": "33576",
+	"name": "Lifeofsmp"
+}
